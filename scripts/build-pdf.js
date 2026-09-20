@@ -139,7 +139,7 @@ function main() {
 
   const cover = `
 <section class="cover print-chapter" id="cover">
-  <p class="part-label">AI_book</p>
+  <p class="part-label">book_ai</p>
   <h1>AI cho người lập trình:<br>từ Prompting đến AI SDLC Architect</h1>
   <p>Nhập môn AI nhanh, prompting, công cụ AI hỗ trợ lập trình, AI agents, và áp dụng AI xuyên suốt
   vòng đời phát triển phần mềm (SDLC).</p>

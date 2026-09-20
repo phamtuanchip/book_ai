@@ -1,4 +1,4 @@
-# AI_book — Kế hoạch viết sách
+# book_ai — Kế hoạch viết sách
 
 ## 1. Mục tiêu cuốn sách
 
