@@ -1,4 +1,5 @@
 # book_ai — Kế hoạch viết sách
+**Đọc online (GitHub Pages): https://phamtuanchip.github.io/book_ai/**
 
 ## 1. Mục tiêu cuốn sách
 
